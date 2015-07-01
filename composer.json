@@ -8,7 +8,7 @@
       "name": "Jakub Paszkiewicz",
       "email": "jacobmaster17@gmail.com",
       "homepage": "https://github.com/jacobmaster"
-    },
+    }
   ],
   "autoload": {
     "psr-4": {
