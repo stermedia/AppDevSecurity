@@ -1,0 +1,22 @@
+{
+  "name": "stermedia/app-dev-security",
+  "license": "MIT",
+  "type": "library",
+  "description": "app_dev security helper",
+  "autoload": {
+    "psr-4": {
+      "Stermedia\\AppDevSecurity\\": "src/Stermedia/AppDevSecurity/"
+    }
+  },
+  "require": {
+    "php": ">=5.3.9",
+    "symfony/yaml": "~2.3",
+    "symfony/debug": "~2.3",
+    "symfony/config": "~2.3"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "dev-master"
+    }
+  }
+}

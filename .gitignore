@@ -1,0 +1,62 @@
+# Vendors #
+###########
+/vendor/
+/node_modules/
+
+# Binaries #
+###########
+/bin/
+
+# Composer #
+############
+/composer.phar
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# OS generated files #
+######################
+*~
+.DS_Store
+.DS_Store?
+*.swp
+._*
+*.out
+*.idea
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# IDE generated files #
+#######################
+*.sublime-project
+*.sublime-workspace
+nbproject
+.idea
+*.tmproj
+.buildpath
+.cache
+.project
+.settings
+.tmproj
+*.esproj
+
+# Numerous always-ignore extensions #
+#####################################
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.zip
+*.vi
