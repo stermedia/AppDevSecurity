@@ -74,7 +74,7 @@ class AppDevSecurityHandler
     public function __construct($configDir = null, $server = null)
     {
         if(is_null($configDir)) {
-            $this->configDir = __DIR__.'/../../../app/config/';
+            $this->configDir = __DIR__.'/../../../../../app/config/';
         } else {
             $this->configDir = $configDir;
         }
