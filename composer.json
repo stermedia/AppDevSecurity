@@ -3,6 +3,13 @@
   "license": "MIT",
   "type": "library",
   "description": "app_dev security helper",
+  "authors": [
+    {
+      "name": "Jakub Paszkiewicz",
+      "email": "jacobmaster17@gmail.com",
+      "homepage": "https://github.com/jacobmaster"
+    },
+  ],
   "autoload": {
     "psr-4": {
       "Stermedia\\AppDevSecurity\\": "src/Stermedia/AppDevSecurity/"
@@ -16,7 +23,7 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "dev-master"
+      "dev-master": "1.0-dev"
     }
   }
 }
